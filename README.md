@@ -1,6 +1,6 @@
 # My Portfolio
 
-*My name is [Chris Ramos!](twitter.com/chrisram0s)
+## My name is [Chris Ramos!](twitter.com/chrisram0s)
 
 * My [GitHub](https://github.com/ChrisRam0s)
 
